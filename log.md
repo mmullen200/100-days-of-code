@@ -20,3 +20,13 @@ I could also turn this into a multiplayer artillery game, or create a simple AI 
 
 **Link to work:** [A-frame breakout project](http://jsbin.com/wifoyi/edit?output)
 
+### Day 1: July 23, 2017
+
+**Today's Progress**: My plan today was to set up the loop logic to build a wall of bricks, but this brings up a problem I THOUGHT I sort of understood. It's very simple to create an A-Frame scene directly in HTML, but when I want to start writing JavaScript and folding that in to my A-Frame scene, I'm getting stuck. I never really had a deep understanding of how to use querySelector. I also need to get a grasp on creating components. When I was working on straight Three.js, I was doing everything in a JavaScript file, then dropping it in to the HTML page. This is different. So most of my progress today is in figuring out what I thought I knew but don't really know.
+
+I'll work on this stuff again tonight if I have more time.
+
+[One example using querySelector](https://github.com/processprocess/lazerGlazer_Viz/blob/master/app.js)
+
+
+
