@@ -26,6 +26,11 @@ I could also turn this into a multiplayer artillery game, or create a simple AI 
 
 I'll work on this stuff again tonight if I have more time.
 
+**Things to Focus On**
+appendChild
+QuerySelector
+Creating components
+
 [One example using querySelector](https://github.com/processprocess/lazerGlazer_Viz/blob/master/app.js)
 
 
