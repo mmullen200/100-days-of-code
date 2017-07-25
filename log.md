@@ -33,5 +33,16 @@ Creating components
 
 [One example using querySelector](https://github.com/processprocess/lazerGlazer_Viz/blob/master/app.js)
 
+### Day 2: July 24, 2017
+
+**Today's Progress**: Great help from the A-Frame people today. Trying to sort out the relationships between Javascript and the DOM when working with A-Frame, @ngokevin pointed me to this example in A-Frame extras:
+
+[Platforms](https://github.com/donmccurdy/aframe-extras/blob/master/examples/platforms/index.html)
+
+Much better understanding of how querySelector works in this situation. Built my wall of bricks, even though it's not pretty yet. Now that I'm digging deeper into A-Frame extras, I see one of my next issues solved:
+
+[Force Push](https://github.com/donmccurdy/aframe-extras/blob/master/examples/force-push/index.html)
+
+
 
 
