@@ -35,7 +35,7 @@ Creating components
 
 ### Day 2: July 24, 2017
 
-**Today's Progress**: Great help from the A-Frame people today. Trying to sort out the relationships between Javascript and the DOM when working with A-Frame, @ngokevin pointed me to this example in A-Frame extras:
+**Today's Progress**: Great help from the A-Frame people today. Trying to sort out the relationships between Javascript and the DOM when working with A-Frame, @donmccurdy pointed me to this example in A-Frame extras:
 
 [Platforms](https://github.com/donmccurdy/aframe-extras/blob/master/examples/platforms/index.html)
 
