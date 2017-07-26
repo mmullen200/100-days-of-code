@@ -43,6 +43,10 @@ Much better understanding of how querySelector works in this situation. Built my
 
 [Force Push](https://github.com/donmccurdy/aframe-extras/blob/master/examples/force-push/index.html)
 
+### Day 3: July 25, 2017
 
+**Today's Progress**: Added random colors to blocks, created nested loops to build wall. Unfortunately, my bricks all come crashing down, which is actually really funny to watch. Need to figure out who to have physics on my blocks, but also keep them as a stable wall.
+
+Had an idea this morning to create a point-and-click escape adventure game. This old-school game format is really popular, and it would be perfect for VR.
 
 
