@@ -49,4 +49,4 @@ Much better understanding of how querySelector works in this situation. Built my
 
 Had an idea this morning to create a point-and-click escape adventure game. This old-school game format is really popular, and it would be perfect for VR.
 
-
+[Updated project is here](http://jsbin.com/tagulom/1/edit?output)
