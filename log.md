@@ -63,3 +63,5 @@ I feel like I need to pick up the pace. Stabilized my wall a bit, but it still c
 
 [Interaction and controllers in A-Frame](https://aframe.io/docs/0.6.0/introduction/interactions-and-controllers.html)
 
+Added mouse pointer controls, still need to use that to push objects.
+
