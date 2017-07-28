@@ -57,3 +57,5 @@ Had an idea this morning to create a point-and-click escape adventure game. This
 
 I feel like I need to pick up the pace. Stabilized my wall a bit, but it still comes tumbling down after a a little while. This [Mozilla post](https://hacks.mozilla.org/2017/05/having-fun-with-physics-and-a-frame/) might give me an idea as to why. Next up, I want to start launch objects at the wall, and figure out a scoring mechanism. I know it's not a full-fledged game, but it is headed in the right direction. Looking at gameplay vids of the old arcade game [Battlezone](https://www.youtube.com/watch?v=Ctr54kopo8I&t=55s), that's the kind of thing I'd like to make. Simple models, either against AI or against another player.
 
+[Updated project is here]([Updated project is here](http://jsbin.com/tagulom/edit?output))
+
