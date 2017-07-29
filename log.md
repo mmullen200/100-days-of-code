@@ -65,3 +65,9 @@ I feel like I need to pick up the pace. Stabilized my wall a bit, but it still c
 
 Added mouse pointer controls, still need to use that to push objects.
 
+### Day 6: July 28, 2017
+
+**Today's Progress**:
+
+Still hacking on physics and cursor controller! Seems like when I add animations to dynamic-bodies I lose collisions. Found lots of different ways to handle this stuff, but haven't managed to make it work in my project. As a sideline, I will probably start making some models in MagicaVoxel. Instead of a straight-up version of Battlezone, I think a cool voxel version in vivid colors would be cool. Lots of giant weird geometric shapes.
+
